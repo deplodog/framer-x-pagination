@@ -1,0 +1,31 @@
+{
+	"main": "build/index.js",
+	"license": "MIT",
+	"devDependencies": {
+		"@types/react": "^16.0.31",
+		"framer": "^0.8.0"
+	},
+	"peerDependencies": {
+		"framer": "^0.8.0",
+		"react": "^16.3.0",
+		"react-dom": "^16.3.0"
+	},
+	"framer": {
+		"id": "68022143-2b52-4215-95ae-cea8430d22e4",
+		"displayName": "Pagination"
+	},
+	"author": "Alexander Nasennik",
+	"dependencies": {},
+	"name": "@framer/deplodog.pagination",
+	"version": "1.2.0",
+	"keywords": [
+		"pagination",
+		"page",
+		"navigation",
+		"numbers",
+		"list",
+		"menu",
+		"component",
+		"control"
+	]
+}
