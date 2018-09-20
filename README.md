@@ -1,5 +1,5 @@
 # Overview
-Simple and fully customizable pagination component.
+Simple and fully customizable pagination component.  
 On the Framer Store: [Pagination Component](https://store.framer.com/package/deplodog/pagination)
 
 # Features
