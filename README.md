@@ -1,5 +1,6 @@
 # Overview
 Simple and fully customizable pagination component.
+On the Framer Store: [Pagination Component](https://store.framer.com/package/deplodog/pagination)
 
 # Features
 1. **Pages** — Controls total number of the pages.
