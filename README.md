@@ -32,6 +32,6 @@ To improve my components and make even more I have to pay for FramerX subscripti
 
 
 ***
-Fell free to contact me if you have any questions, feature idea or component request.  
+Feel free to contact me if you have any questions, feature idea or component request.  
 Twitter: [@deplodog](https://twitter.com/deplodog)	・
 Mail: [deplodog@gmail.com](mailto:deplodog@gmail.com)
